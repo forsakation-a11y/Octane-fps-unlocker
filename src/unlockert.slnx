@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="unlockert/unlockert.vcxproj" Id="848eda58-7518-4efb-ba06-1ec0aed5f55b" />
+</Solution>
